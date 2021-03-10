@@ -1,0 +1,6 @@
+H:\CSCI 105\FutureAge\FutureAge\bin\Debug\FutureAge.exe.config
+H:\CSCI 105\FutureAge\FutureAge\bin\Debug\FutureAge.exe
+H:\CSCI 105\FutureAge\FutureAge\bin\Debug\FutureAge.pdb
+H:\CSCI 105\FutureAge\FutureAge\obj\Debug\FutureAge.csproj.CoreCompileInputs.cache
+H:\CSCI 105\FutureAge\FutureAge\obj\Debug\FutureAge.exe
+H:\CSCI 105\FutureAge\FutureAge\obj\Debug\FutureAge.pdb

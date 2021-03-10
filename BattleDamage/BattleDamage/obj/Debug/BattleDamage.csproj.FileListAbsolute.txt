@@ -1,0 +1,7 @@
+H:\CSCI 105\BattleDamage\BattleDamage\bin\Debug\BattleDamage.exe.config
+H:\CSCI 105\BattleDamage\BattleDamage\bin\Debug\BattleDamage.exe
+H:\CSCI 105\BattleDamage\BattleDamage\bin\Debug\BattleDamage.pdb
+H:\CSCI 105\BattleDamage\BattleDamage\obj\Debug\BattleDamage.csprojAssemblyReference.cache
+H:\CSCI 105\BattleDamage\BattleDamage\obj\Debug\BattleDamage.csproj.CoreCompileInputs.cache
+H:\CSCI 105\BattleDamage\BattleDamage\obj\Debug\BattleDamage.exe
+H:\CSCI 105\BattleDamage\BattleDamage\obj\Debug\BattleDamage.pdb

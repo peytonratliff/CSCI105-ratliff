@@ -1,0 +1,10 @@
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojAssemblyReference.cache
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Form1.resources
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.cache
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+H:\CSCI 105\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

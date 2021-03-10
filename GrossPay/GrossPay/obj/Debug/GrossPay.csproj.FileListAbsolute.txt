@@ -1,0 +1,7 @@
+H:\CSCI 105\GrossPay\GrossPay\bin\Debug\GrossPay.exe.config
+H:\CSCI 105\GrossPay\GrossPay\bin\Debug\GrossPay.exe
+H:\CSCI 105\GrossPay\GrossPay\bin\Debug\GrossPay.pdb
+H:\CSCI 105\GrossPay\GrossPay\obj\Debug\GrossPay.csprojAssemblyReference.cache
+H:\CSCI 105\GrossPay\GrossPay\obj\Debug\GrossPay.csproj.CoreCompileInputs.cache
+H:\CSCI 105\GrossPay\GrossPay\obj\Debug\GrossPay.exe
+H:\CSCI 105\GrossPay\GrossPay\obj\Debug\GrossPay.pdb

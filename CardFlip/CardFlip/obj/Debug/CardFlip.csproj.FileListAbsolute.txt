@@ -1,0 +1,10 @@
+H:\CSCI 105\CardFlip\CardFlip\bin\Debug\CardFlip.exe.config
+H:\CSCI 105\CardFlip\CardFlip\bin\Debug\CardFlip.exe
+H:\CSCI 105\CardFlip\CardFlip\bin\Debug\CardFlip.pdb
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.csprojAssemblyReference.cache
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.Form1.resources
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.Properties.Resources.resources
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.GenerateResource.cache
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.CoreCompileInputs.cache
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.exe
+H:\CSCI 105\CardFlip\CardFlip\obj\Debug\CardFlip.pdb

@@ -1,0 +1,7 @@
+H:\CSCI 105\CharacterClass\CharacterClass\bin\Debug\CharacterClass.exe.config
+H:\CSCI 105\CharacterClass\CharacterClass\bin\Debug\CharacterClass.exe
+H:\CSCI 105\CharacterClass\CharacterClass\bin\Debug\CharacterClass.pdb
+H:\CSCI 105\CharacterClass\CharacterClass\obj\Debug\CharacterClass.csprojAssemblyReference.cache
+H:\CSCI 105\CharacterClass\CharacterClass\obj\Debug\CharacterClass.csproj.CoreCompileInputs.cache
+H:\CSCI 105\CharacterClass\CharacterClass\obj\Debug\CharacterClass.exe
+H:\CSCI 105\CharacterClass\CharacterClass\obj\Debug\CharacterClass.pdb

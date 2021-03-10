@@ -1,0 +1,10 @@
+H:\CSCI 105\Flags\Flags\bin\Debug\Flags.exe.config
+H:\CSCI 105\Flags\Flags\bin\Debug\Flags.exe
+H:\CSCI 105\Flags\Flags\bin\Debug\Flags.pdb
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.csprojAssemblyReference.cache
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.Form1.resources
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.cache
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.csproj.CoreCompileInputs.cache
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.exe
+H:\CSCI 105\Flags\Flags\obj\Debug\Flags.pdb

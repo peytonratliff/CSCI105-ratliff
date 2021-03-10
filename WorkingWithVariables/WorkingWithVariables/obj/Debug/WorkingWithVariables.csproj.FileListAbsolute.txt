@@ -1,0 +1,7 @@
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\bin\Debug\WorkingWithVariables.exe.config
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\bin\Debug\WorkingWithVariables.exe
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\bin\Debug\WorkingWithVariables.pdb
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\obj\Debug\WorkingWithVariables.csprojAssemblyReference.cache
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\obj\Debug\WorkingWithVariables.csproj.CoreCompileInputs.cache
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\obj\Debug\WorkingWithVariables.exe
+H:\CSCI 105\WorkingWithVariables\WorkingWithVariables\obj\Debug\WorkingWithVariables.pdb

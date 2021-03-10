@@ -1,0 +1,22 @@
+E:\Code\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.exe.config
+E:\Code\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.exe
+E:\Code\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.pdb
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csprojAssemblyReference.cache
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.Form1.resources
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.Properties.Resources.resources
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csproj.GenerateResource.cache
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csproj.CoreCompileInputs.cache
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.exe
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.pdb
+E:\Code\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.SummaryForm.resources
+H:\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.exe.config
+H:\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.exe
+H:\CSCI 105\72 PassingData\72 PassingData\bin\Debug\72 PassingData.pdb
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csprojAssemblyReference.cache
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.Form1.resources
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.Properties.Resources.resources
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\_72_PassingData.SummaryForm.resources
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csproj.GenerateResource.cache
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.csproj.CoreCompileInputs.cache
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.exe
+H:\CSCI 105\72 PassingData\72 PassingData\obj\Debug\72 PassingData.pdb

@@ -1,0 +1,7 @@
+H:\CSCI 105\IntroToArrays\IntroToArrays\bin\Debug\IntroToArrays.exe.config
+H:\CSCI 105\IntroToArrays\IntroToArrays\bin\Debug\IntroToArrays.exe
+H:\CSCI 105\IntroToArrays\IntroToArrays\bin\Debug\IntroToArrays.pdb
+H:\CSCI 105\IntroToArrays\IntroToArrays\obj\Debug\IntroToArrays.csprojAssemblyReference.cache
+H:\CSCI 105\IntroToArrays\IntroToArrays\obj\Debug\IntroToArrays.csproj.CoreCompileInputs.cache
+H:\CSCI 105\IntroToArrays\IntroToArrays\obj\Debug\IntroToArrays.exe
+H:\CSCI 105\IntroToArrays\IntroToArrays\obj\Debug\IntroToArrays.pdb

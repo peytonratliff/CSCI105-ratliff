@@ -1,0 +1,7 @@
+E:\Code\CSCI 105\23 Dates\23 Dates\bin\Debug\23 Dates.exe.config
+E:\Code\CSCI 105\23 Dates\23 Dates\bin\Debug\23 Dates.exe
+E:\Code\CSCI 105\23 Dates\23 Dates\bin\Debug\23 Dates.pdb
+E:\Code\CSCI 105\23 Dates\23 Dates\obj\Debug\23 Dates.csprojAssemblyReference.cache
+E:\Code\CSCI 105\23 Dates\23 Dates\obj\Debug\23 Dates.csproj.CoreCompileInputs.cache
+E:\Code\CSCI 105\23 Dates\23 Dates\obj\Debug\23 Dates.exe
+E:\Code\CSCI 105\23 Dates\23 Dates\obj\Debug\23 Dates.pdb

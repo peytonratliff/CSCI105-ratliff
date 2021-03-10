@@ -1,0 +1,10 @@
+H:\FirstWindowProgram\FirstWindowProgram\bin\Debug\FirstWindowProgram.exe.config
+H:\FirstWindowProgram\FirstWindowProgram\bin\Debug\FirstWindowProgram.exe
+H:\FirstWindowProgram\FirstWindowProgram\bin\Debug\FirstWindowProgram.pdb
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.csprojAssemblyReference.cache
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.Form1.resources
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.Properties.Resources.resources
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.csproj.GenerateResource.cache
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.csproj.CoreCompileInputs.cache
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.exe
+H:\FirstWindowProgram\FirstWindowProgram\obj\Debug\FirstWindowProgram.pdb

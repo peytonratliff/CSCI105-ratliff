@@ -1,0 +1,6 @@
+C:\Users\pmratliff\source\repos\Factorials\Factorials\bin\Debug\Factorials.exe.config
+C:\Users\pmratliff\source\repos\Factorials\Factorials\bin\Debug\Factorials.exe
+C:\Users\pmratliff\source\repos\Factorials\Factorials\bin\Debug\Factorials.pdb
+C:\Users\pmratliff\source\repos\Factorials\Factorials\obj\Debug\Factorials.csproj.CoreCompileInputs.cache
+C:\Users\pmratliff\source\repos\Factorials\Factorials\obj\Debug\Factorials.exe
+C:\Users\pmratliff\source\repos\Factorials\Factorials\obj\Debug\Factorials.pdb

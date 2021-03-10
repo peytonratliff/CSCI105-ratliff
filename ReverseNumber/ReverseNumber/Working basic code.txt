@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ReverseNumber
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 2356347;
+            int percent10;
+            int div10;
+            int revNum = 0;
+
+            while(number != 0)
+            {
+                percent10 = number % 10;
+                div10 = number / 10;
+                number = div10;
+                revNum = revNum + percent10;
+                if(div10 != 0)
+                {
+                    revNum = revNum * 10;
+                }
+                Console.WriteLine();
+
+                Console.WriteLine(percent10);
+                Console.WriteLine(div10);
+                Console.WriteLine(revNum);
+            }
+        }
+    }
+}

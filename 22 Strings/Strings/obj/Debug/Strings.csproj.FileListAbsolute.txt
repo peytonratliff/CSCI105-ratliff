@@ -1,0 +1,12 @@
+H:\VS Projects\Strings\Strings\bin\Debug\Strings.exe.config
+H:\VS Projects\Strings\Strings\bin\Debug\Strings.exe
+H:\VS Projects\Strings\Strings\bin\Debug\Strings.pdb
+H:\VS Projects\Strings\Strings\obj\Debug\Strings.exe
+H:\VS Projects\Strings\Strings\obj\Debug\Strings.pdb
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\bin\Debug\Strings.exe.config
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\bin\Debug\Strings.exe
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\bin\Debug\Strings.pdb
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\obj\Debug\Strings.exe
+E:\Code\Need Sorted\VS Projects LAB\VS Projects\Strings\Strings\obj\Debug\Strings.pdb

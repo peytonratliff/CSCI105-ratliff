@@ -1,0 +1,6 @@
+H:\CSCI 105\FormattingOutput\FormattingOutput\bin\Debug\FormattingOutput.exe.config
+H:\CSCI 105\FormattingOutput\FormattingOutput\bin\Debug\FormattingOutput.exe
+H:\CSCI 105\FormattingOutput\FormattingOutput\bin\Debug\FormattingOutput.pdb
+H:\CSCI 105\FormattingOutput\FormattingOutput\obj\Debug\FormattingOutput.csproj.CoreCompileInputs.cache
+H:\CSCI 105\FormattingOutput\FormattingOutput\obj\Debug\FormattingOutput.exe
+H:\CSCI 105\FormattingOutput\FormattingOutput\obj\Debug\FormattingOutput.pdb

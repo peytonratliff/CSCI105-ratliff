@@ -1,0 +1,7 @@
+H:\CSCI 105\SolveQuad\SolveQuad\bin\Debug\SolveQuad.exe.config
+H:\CSCI 105\SolveQuad\SolveQuad\bin\Debug\SolveQuad.exe
+H:\CSCI 105\SolveQuad\SolveQuad\bin\Debug\SolveQuad.pdb
+H:\CSCI 105\SolveQuad\SolveQuad\obj\Debug\SolveQuad.csprojAssemblyReference.cache
+H:\CSCI 105\SolveQuad\SolveQuad\obj\Debug\SolveQuad.csproj.CoreCompileInputs.cache
+H:\CSCI 105\SolveQuad\SolveQuad\obj\Debug\SolveQuad.exe
+H:\CSCI 105\SolveQuad\SolveQuad\obj\Debug\SolveQuad.pdb

@@ -1,0 +1,10 @@
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\bin\Debug\WinSolveQuad.exe.config
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\bin\Debug\WinSolveQuad.exe
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\bin\Debug\WinSolveQuad.pdb
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.csprojAssemblyReference.cache
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.Form1.resources
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.Properties.Resources.resources
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.csproj.GenerateResource.cache
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.csproj.CoreCompileInputs.cache
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.exe
+H:\CSCI 105\WinSolveQuad\WinSolveQuad\obj\Debug\WinSolveQuad.pdb

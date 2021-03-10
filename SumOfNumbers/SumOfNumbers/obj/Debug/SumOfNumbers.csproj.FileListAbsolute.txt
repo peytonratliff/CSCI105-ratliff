@@ -1,0 +1,7 @@
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csprojAssemblyReference.cache
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+H:\CSCI 105\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

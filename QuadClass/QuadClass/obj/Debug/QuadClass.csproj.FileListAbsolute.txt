@@ -1,0 +1,7 @@
+H:\CSCI 105\QuadClass\QuadClass\bin\Debug\QuadClass.exe.config
+H:\CSCI 105\QuadClass\QuadClass\bin\Debug\QuadClass.exe
+H:\CSCI 105\QuadClass\QuadClass\bin\Debug\QuadClass.pdb
+H:\CSCI 105\QuadClass\QuadClass\obj\Debug\QuadClass.csprojAssemblyReference.cache
+H:\CSCI 105\QuadClass\QuadClass\obj\Debug\QuadClass.csproj.CoreCompileInputs.cache
+H:\CSCI 105\QuadClass\QuadClass\obj\Debug\QuadClass.exe
+H:\CSCI 105\QuadClass\QuadClass\obj\Debug\QuadClass.pdb

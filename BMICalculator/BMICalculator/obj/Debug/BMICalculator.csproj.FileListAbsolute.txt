@@ -1,0 +1,7 @@
+H:\CSCI 105\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+H:\CSCI 105\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+H:\CSCI 105\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+H:\CSCI 105\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+H:\CSCI 105\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+H:\CSCI 105\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+H:\CSCI 105\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
