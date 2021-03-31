@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A4D429A-AC45-4EE4-9EB3-EE88ECC89C10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CharacterGeneratorGUI</RootNamespace>
+    <AssemblyName>CharacterGeneratorGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Character.cs" />
+    <Compile Include="Creator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creator.Designer.cs">
+      <DependentUpon>Creator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Stats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stats.Designer.cs">
+      <DependentUpon>Stats.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Creator.resx">
+      <DependentUpon>Creator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stats.resx">
+      <DependentUpon>Stats.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\humanPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dwarfPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elfPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orcPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trollPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taurenPlaceholder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleHunter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleMage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleRogue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleShaman.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleWarrior.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueBanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedBanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanMaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumanFemaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfMaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DwarfFemaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfMaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElfFemaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcMaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrcFemaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleRogue.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollMaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrollFemaleMage.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleWarrior.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleHunter.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenMaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaurenFemaleShaman.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kingdoms Will Burn.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

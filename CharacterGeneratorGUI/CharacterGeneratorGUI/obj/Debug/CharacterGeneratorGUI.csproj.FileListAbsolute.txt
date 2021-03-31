@@ -1,0 +1,43 @@
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe.config
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csprojAssemblyReference.cache
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Form1.resources
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Properties.Resources.resources
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.GenerateResource.cache
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton\source\repos\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe.config
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csprojAssemblyReference.cache
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Properties.Resources.resources
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.GenerateResource.cache
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Creator.resources
+C:\Users\Peyton\Desktop\Visual Studio\Projects\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Stats.resources
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe.config
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.pdb
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csprojAssemblyReference.cache
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Creator.resources
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Properties.Resources.resources
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Stats.resources
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.GenerateResource.cache
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.CoreCompileInputs.cache
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.exe
+H:\CSCI 105\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe.config
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\bin\Debug\CharacterGeneratorGUI.pdb
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csprojAssemblyReference.cache
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Creator.resources
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Properties.Resources.resources
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.Stats.resources
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.GenerateResource.cache
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.exe
+C:\Users\Peyton Ratliff\Desktop\Programs\C#\CharacterGeneratorGUI\CharacterGeneratorGUI\obj\Debug\CharacterGeneratorGUI.pdb
